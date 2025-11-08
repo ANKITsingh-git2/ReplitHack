@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, hackathon/mvp ]
+  pull_request:
+    branches: [ main, hackathon/mvp ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
+        cache: 'npm'
+        cache-dependency-path: agentverse/package-lock.json
+
+    - name: Install dependencies
+      working-directory: agentverse
+      run: npm ci
+
+    - name: Run tests
+      working-directory: agentverse
+      run: npm test
+
+    - name: Build
+      working-directory: agentverse
+      run: npm run build
+
+    - name: Build Docker image
+      working-directory: agentverse
+      run: docker build -t agentverse:latest .
+

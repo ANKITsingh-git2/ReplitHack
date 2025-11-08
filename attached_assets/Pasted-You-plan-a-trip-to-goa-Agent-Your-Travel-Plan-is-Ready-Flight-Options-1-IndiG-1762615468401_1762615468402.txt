@@ -1,0 +1,190 @@
+You:
+plan a trip to goa
+Agent:
+✈️ **Your Travel Plan is Ready!**
+
+**🛫 Flight Options:**
+
+1. **IndiGo** - 6E8993
+   🛫 Bangalore (BLR) → goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 06:30 - 09:00 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹3,033
+   ✅ Available
+
+2. **SpiceJet** - SG4508
+   🛫 Bangalore (BLR) → goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 09:15 - 11:45 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹3,611
+   ✅ Available
+
+3. **AirAsia India** - I57034
+   🛫 Bangalore (BLR) → goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 18:00 - 20:30 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹3,783
+   ⚠️ Limited
+
+4. **Vistara** - UK3331
+   🛫 Bangalore (BLR) → goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 15:20 - 17:50 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹4,384
+   ✅ Available
+
+5. **Air India** - AI5255
+   🛫 Bangalore (BLR) → goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 12:45 - 15:15 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹4,589
+   ✅ Available
+
+**🏨 Hotel Options:**
+
+1. **goa Comfort Inn** ⭐ 4
+   📍 Near Airport
+   🌙 2 nights
+   ✨ WiFi, Restaurant, Free Parking, Airport Shuttle
+   💰 ₹1,027/night → Total: ₹2,054
+   ✅ Available
+
+2. **goa Heritage Hotel** ⭐ 4.3
+   📍 Old Town
+   🌙 2 nights
+   ✨ WiFi, Restaurant, Heritage Building, Garden
+   💰 ₹1,811/night → Total: ₹3,622
+   ✅ Available
+
+3. **Luxury goa Suites** ⭐ 4.5
+   📍 Downtown
+   🌙 2 nights
+   ✨ WiFi, Pool, Restaurant, Gym, Room Service
+   💰 ₹2,379/night → Total: ₹4,758
+   ✅ Available
+
+4. **goa Beach Resort & Spa** ⭐ 4.6
+   📍 Beachfront
+   🌙 2 nights
+   ✨ WiFi, Beach Access, Pool, Restaurant, Water Sports
+   💰 ₹2,691/night → Total: ₹5,382
+   ✅ Available
+
+5. **goa Grand Hotel** ⭐ 4.8
+   📍 City Center
+   🌙 2 nights
+   ✨ WiFi, Pool, Spa, Restaurant, Gym, Bar
+   💰 ₹3,323/night → Total: ₹6,646
+   ✅ Available
+
+💰 **Estimated Total Trip Cost:** ₹5,087
+   (Based on cheapest flight + hotel combination)
+
+✅ **Summary:** I found 5 flight option(s) and 5 hotel option(s) for you.
+
+💡 **Next Steps:** Would you like me to:
+   • Help you choose the best option?
+   • Find more options?
+   • Modify your search criteria?
+You:
+find more options
+Agent:
+Response: I understand you want to: find more options. Let me help you with that.
+You:
+weather of goa
+Agent:
+✈️ **Your Travel Plan is Ready!**
+
+**🛫 Flight Options:**
+
+1. **IndiGo** - 6E3356
+   🛫 Bangalore (BLR) → Goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 06:30 - 09:00 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹3,089
+   ✅ Available
+
+2. **SpiceJet** - SG1960
+   🛫 Bangalore (BLR) → Goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 09:15 - 11:45 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹3,984
+   ✅ Available
+
+3. **Air India** - AI8357
+   🛫 Bangalore (BLR) → Goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 12:45 - 15:15 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹4,127
+   ✅ Available
+
+4. **Vistara** - UK9165
+   🛫 Bangalore (BLR) → Goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 15:20 - 17:50 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹4,158
+   ✅ Available
+
+5. **AirAsia India** - I56392
+   🛫 Bangalore (BLR) → Goa Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 18:00 - 20:30 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹4,178
+   ✅ Available
+
+**🏨 Hotel Options:**
+
+1. **Goa Comfort Inn** ⭐ 4
+   📍 Near Airport
+   🌙 2 nights
+   ✨ WiFi, Restaurant, Free Parking, Airport Shuttle
+   💰 ₹1,354/night → Total: ₹2,708
+   ✅ Available
+
+2. **Goa Heritage Hotel** ⭐ 4.3
+   📍 Old Town
+   🌙 2 nights
+   ✨ WiFi, Restaurant, Heritage Building, Garden
+   💰 ₹1,849/night → Total: ₹3,698
+   ✅ Available
+
+3. **Luxury Goa Suites** ⭐ 4.5
+   📍 Downtown
+   🌙 2 nights
+   ✨ WiFi, Pool, Restaurant, Gym, Room Service
+   💰 ₹2,626/night → Total: ₹5,252
+   ✅ Available
+
+4. **Goa Beach Resort & Spa** ⭐ 4.6
+   📍 Beachfront
+   🌙 2 nights
+   ✨ WiFi, Beach Access, Pool, Restaurant, Water Sports
+   💰 ₹2,963/night → Total: ₹5,926
+   ✅ Available
+
+5. **Goa Grand Hotel** ⭐ 4.8
+   📍 City Center
+   🌙 2 nights
+   ✨ WiFi, Pool, Spa, Restaurant, Gym, Bar
+   💰 ₹3,025/night → Total: ₹6,050
+   ✅ Available
+
+💰 **Estimated Total Trip Cost:** ₹5,797
+   (Based on cheapest flight + hotel combination)
+
+✅ **Summary:** I found 5 flight option(s) and 5 hotel option(s) for you.
+
+💡 **Next Steps:** Would you like me to:
+   • Help you choose the best option?
+   • Find more options?
+   • Modify your search criteria?

@@ -1,0 +1,75 @@
+      'Connection: keep-alive\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1beta/models/gemini-pro:generateContent?key=AIzaSyAsoyN6tsyZ7g2sQ_jti4PZSCVWMthkEe0',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'generativelanguage.googleapis.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(shapeMode)]: false,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kChunkedBuffer)]: [],
+      [Symbol(kChunkedLength)]: 0,
+      [Symbol(kSocket)]: [TLSSocket],
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kHighWaterMark)]: 65536,
+      [Symbol(kRejectNonStandardBodyWrites)]: false,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  status: 404
+}
+Using rule-based planner as fallback
+Searching flights for {
+  destination: 'goa next month',
+  dates: { from: 'next_month', to: 'next_month' }
+}
+Error fetching flights from Supabase: getaddrinfo ENOTFOUND udsqsmxvswgzqhhtjhbe.supabase.co
+Searching hotels in { destination: 'goa next month', nights: 2 }
+Error fetching hotels from Supabase: getaddrinfo ENOTFOUND udsqsmxvswgzqhhtjhbe.supabase.co
+Checking weather for { destination: 'goa next month', days: 5 }
+Finding attractions in { destination: 'goa next month', type: 'all' }
+[Telegram Bot] Goal completed. Status: completed
+[Telegram Bot] Error: EFATAL: AggregateError Error: EFATAL: AggregateError
+    at new RequestError (/home/ankit/Downloads/Vibeathon2/node_modules/request-promise-core/lib/errors.js:14:15)
+    at Request.plumbing.callback (/home/ankit/Downloads/Vibeathon2/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at Request.RP$callback [as _callback] (/home/ankit/Downloads/Vibeathon2/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/home/ankit/Downloads/Vibeathon2/node_modules/@cypress/request/request.js:183:22)
+    at Request.emit (node:events:520:28)
+    at Request.onRequestError (/home/ankit/Downloads/Vibeathon2/node_modules/@cypress/request/request.js:869:8)
+    at ClientRequest.emit (node:events:520:28)
+    at TLSSocket.socketErrorListener (node:_http_client:502:9)
+    at TLSSocket.emit (node:events:520:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Request.plumbing.init (/home/ankit/Downloads/Vibeathon2/node_modules/request-promise-core/lib/plumbing.js:36:28)
+    at Request.RP$initInterceptor [as init] (/home/ankit/Downloads/Vibeathon2/node_modules/request-promise-core/configure/request2.js:41:27)
+    at new Request (/home/ankit/Downloads/Vibeathon2/node_modules/@cypress/request/request.js:125:8)
+    at request (/home/ankit/Downloads/Vibeathon2/node_modules/@cypress/request/index.js:53:10)
+    at TelegramBot._request (/home/ankit/Downloads/Vibeathon2/node_modules/node-telegram-bot-api/src/telegram.js:286:12)
+From previous event:
+    at TelegramBot._request (/home/ankit/Downloads/Vibeathon2/node_modules/node-telegram-bot-api/src/telegram.js:300:15)
+    at TelegramBot.sendMessage (/home/ankit/Downloads/Vibeathon2/node_modules/node-telegram-bot-api/src/telegram.js:915:17)
+    at TelegramBotService.sendLongMessage (/home/ankit/Downloads/Vibeathon2/src/bot/TelegramBot.ts:474:23)
+    at TelegramBotService.handleMessage (/home/ankit/Downloads/Vibeathon2/src/bot/TelegramBot.ts:249:18)
+    at TelegramBot.<anonymous> (/home/ankit/Downloads/Vibeathon2/src/bot/TelegramBot.ts:77:9)

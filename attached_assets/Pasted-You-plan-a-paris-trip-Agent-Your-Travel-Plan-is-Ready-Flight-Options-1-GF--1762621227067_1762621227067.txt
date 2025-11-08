@@ -1,0 +1,132 @@
+You:
+plan a paris trip
+Agent:
+✈️ **Your Travel Plan is Ready!**
+
+**🛫 Flight Options:**
+
+1. **GF** - GF281
+   🛫 Bangalore (BLR) → Paris (PAR)
+   📅 Date: 2025-12-08
+   ⏰ Time: 21:50 - 24:30 (13h 25m)
+   💺 Class: Economy
+   💰 Price: ₹236
+   ✅ Available
+
+2. **GF** - GF283
+   🛫 Bangalore (BLR) → Paris (PAR)
+   📅 Date: 2025-12-08
+   ⏰ Time: 04:55 - 07:35 (30h 20m)
+   💺 Class: Economy
+   💰 Price: ₹236
+   ✅ Available
+
+3. **AI** - AI2654
+   🛫 Bangalore (BLR) → Paris (PAR)
+   📅 Date: 2025-12-08
+   ⏰ Time: 07:00 - 10:00 (15h 25m)
+   💺 Class: Economy
+   💰 Price: ₹238
+   ✅ Available
+
+4. **AI** - AI2814
+   🛫 Bangalore (BLR) → Paris (PAR)
+   📅 Date: 2025-12-08
+   ⏰ Time: 22:00 - 24:40 (16h 15m)
+   💺 Class: Economy
+   💰 Price: ₹238
+   ✅ Available
+
+5. **AI** - AI2808
+   🛫 Bangalore (BLR) → Paris (PAR)
+   📅 Date: 2025-12-08
+   ⏰ Time: 08:00 - 10:45 (14h 25m)
+   💺 Class: Economy
+   💰 Price: ₹273
+   ✅ Available
+
+**🏨 Hotel Options:**
+
+1. **Test property for Azure and AWS Migration HOS and HCR in UAT** ⭐ 4
+   📍 PAR
+   🌙 2 nights
+   ✨ WiFi, Restaurant, Room Service
+   💰 ₹10/night → Total: ₹20
+   ✅ Available
+
+2. **Test Property** ⭐ 4
+   📍 PAR
+   🌙 2 nights
+   ✨ WiFi, Restaurant, Room Service
+   💰 ₹11/night → Total: ₹22
+   ✅ Available
+
+3. **Test Property for API Activate/De-activate** ⭐ 4
+   📍 PAR
+   🌙 2 nights
+   ✨ WiFi, Restaurant, Room Service
+   💰 ₹90/night → Total: ₹180
+   ✅ Available
+
+**🌤️ Weather Forecast for Paris:**
+
+📍 Current: 12°C, Clear
+   Feels like: 12°C | Humidity: 88%
+
+**5-Day Forecast:**
+🌤️ **11/8/2025** - Clear
+   🌡️ High: 12°C | Low: 12°C
+   💧 Humidity: 88%
+
+☁️ **11/9/2025** - Clouds
+   🌡️ High: 13°C | Low: 13°C
+   💧 Humidity: 65%
+
+☁️ **11/10/2025** - Clouds
+   🌡️ High: 12°C | Low: 12°C
+   💧 Humidity: 77%
+
+☁️ **11/11/2025** - Clouds
+   🌡️ High: 13°C | Low: 13°C
+   💧 Humidity: 73%
+
+☁️ **11/12/2025** - Clouds
+   🌡️ High: 15°C | Low: 15°C
+   💧 Humidity: 61%
+
+**📍 Places to Visit in Paris:**
+
+1. 📍 **Paris Beach**
+   ⭐ Rating: 4.5/5
+   📝 Beautiful pristine beach with golden sands
+   📏 2.5 km
+
+2. 📍 **Paris Fort**
+   ⭐ Rating: 4.3/5
+   📝 Historic fort with panoramic views
+   📏 3.2 km
+
+3. 📍 **Paris Market**
+   ⭐ Rating: 4.1/5
+   📝 Vibrant local market with handicrafts
+   📏 1.8 km
+
+4. 📍 **Paris Temple**
+   ⭐ Rating: 4.6/5
+   📝 Ancient temple with stunning architecture
+   📏 4.0 km
+
+5. 📍 **Paris Waterfall**
+   ⭐ Rating: 4.7/5
+   📝 Scenic waterfall surrounded by lush greenery
+   📏 12.5 km
+
+💰 **Estimated Total Trip Cost:** ₹256
+   (Based on cheapest flight + hotel combination)
+
+✅ **Summary:** I found 5 flight(s), 3 hotel(s), weather forecast, and 5 attractions for you.
+
+💡 **Next Steps:** Would you like me to:
+   • Help you choose the best option?
+   • Find more options?
+   • Modify your search criteria?

@@ -1,0 +1,64 @@
+npm run dev
+
+> agentverse@1.0.0 dev
+> ts-node-dev --respawn --transpile-only src/server.ts
+
+[INFO] 21:09:37 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.9.3)
+(node:54308) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1762616378852,"pid":54308,"hostname":"Ankits-linuxMachine","msg":"Server listening at http://0.0.0.0:5000"}
+🚀 Agentverse running on http://localhost:5000
+📚 API docs available at http://localhost:5000/api
+✅ Telegram bot started successfully!
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unauthorized"}
+error: [polling_error] {"code":"ETELEGRAM","message":"ETELEGRAM: 401 Unaut

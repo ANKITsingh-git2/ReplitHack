@@ -1,0 +1,171 @@
+ou:
+plan a paris trip
+Agent:
+✈️ **Your Travel Plan is Ready!**
+
+**🛫 Flight Options:**
+
+1. **IndiGo** - 6E4709
+   🛫 Bangalore (BLR) → Plan A Paris Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 06:30 - 09:00 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹2,903
+   ✅ Available
+
+2. **SpiceJet** - SG6670
+   🛫 Bangalore (BLR) → Plan A Paris Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 09:15 - 11:45 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹3,410
+   ✅ Available
+
+3. **Air India** - AI4925
+   🛫 Bangalore (BLR) → Plan A Paris Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 12:45 - 15:15 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹4,093
+   ✅ Available
+
+4. **AirAsia India** - I58081
+   🛫 Bangalore (BLR) → Plan A Paris Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 18:00 - 20:30 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹4,284
+   ✅ Available
+
+5. **Vistara** - UK6768
+   🛫 Bangalore (BLR) → Plan A Paris Airport
+   📅 Date: 2025-12-08
+   ⏰ Time: 15:20 - 17:50 (2h 30m)
+   💺 Class: Economy
+   💰 Price: ₹4,443
+   ⚠️ Limited
+
+**🏨 Hotel Options:**
+
+1. **Plan A Paris Comfort Inn** ⭐ 4
+   📍 Near Airport
+   🌙 2 nights
+   ✨ WiFi, Restaurant, Free Parking, Airport Shuttle
+   💰 ₹1,171/night → Total: ₹2,342
+   ✅ Available
+
+2. **Plan A Paris Heritage Hotel** ⭐ 4.3
+   📍 Old Town
+   🌙 2 nights
+   ✨ WiFi, Restaurant, Heritage Building, Garden
+   💰 ₹1,682/night → Total: ₹3,364
+   ✅ Available
+
+3. **Luxury Plan A Paris Suites** ⭐ 4.5
+   📍 Downtown
+   🌙 2 nights
+   ✨ WiFi, Pool, Restaurant, Gym, Room Service
+   💰 ₹2,635/night → Total: ₹5,270
+   ✅ Available
+
+4. **Plan A Paris Beach Resort & Spa** ⭐ 4.6
+   📍 Beachfront
+   🌙 2 nights
+   ✨ WiFi, Beach Access, Pool, Restaurant, Water Sports
+   💰 ₹2,785/night → Total: ₹5,570
+   ✅ Available
+
+5. **Plan A Paris Grand Hotel** ⭐ 4.8
+   📍 City Center
+   🌙 2 nights
+   ✨ WiFi, Pool, Spa, Restaurant, Gym, Bar
+   💰 ₹3,009/night → Total: ₹6,018
+   ✅ Available
+
+**🌤️ Weather Forecast for Plan A Paris:**
+
+📍 Current: 31°C, Partly Cloudy
+   Feels like: 30°C | Humidity: 83%
+
+**5-Day Forecast:**
+☁️ **11/8/2025** - Partly Cloudy
+   🌡️ High: 34°C | Low: 28°C
+   💧 Humidity: 83%
+
+☁️ **11/9/2025** - Partly Cloudy
+   🌡️ High: 37°C | Low: 31°C
+   💧 Humidity: 89%
+
+☁️ **11/10/2025** - Partly Cloudy
+   🌡️ High: 35°C | Low: 29°C
+   💧 Humidity: 75%
+
+☁️ **11/11/2025** - Partly Cloudy
+   🌡️ High: 33°C | Low: 27°C
+   💧 Humidity: 67%
+
+☁️ **11/12/2025** - Cloudy
+   🌡️ High: 31°C | Low: 25°C
+   💧 Humidity: 88%
+
+**📍 Places to Visit in Plan A Paris:**
+
+1. 📍 **Le Roc**
+   ⭐ Rating: 4.9/5
+   📝 Popular entertainment in the area
+   📏 nearby
+
+2. 📍 **Musée des traditions et des barques du Léman**
+   ⭐ Rating: 4.3/5
+   📝 Popular entertainment in the area
+   📏 nearby
+
+3. 📍 **Le Léman**
+   ⭐ Rating: 4.9/5
+   📝 Popular natural in the area
+   📏 nearby
+
+4. 📍 **Pointe de l'Aritte**
+   ⭐ Rating: 4.8/5
+   📝 Popular natural in the area
+   📏 nearby
+
+5. 📍 **Château de Saint-Gingolph**
+   ⭐ Rating: 4.9/5
+   📝 Popular building in the area
+   📏 nearby
+
+6. 📍 **Pic des Mémises**
+   ⭐ Rating: 4.2/5
+   📝 Popular natural in the area
+   📏 nearby
+
+7. 📍 **Pic de Blanchard**
+   ⭐ Rating: 4.4/5
+   📝 Popular natural in the area
+   📏 nearby
+
+8. 📍 **Pierre à Jean-Jacques Rousseau**
+   ⭐ Rating: 4.2/5
+   📝 Popular tourism in the area
+   📏 nearby
+
+9. 📍 **Mont Cornin**
+   ⭐ Rating: 4.1/5
+   📝 Popular natural in the area
+   📏 nearby
+
+10. 📍 **Monument des Fusillés**
+   ⭐ Rating: 4.9/5
+   📝 Popular tourism in the area
+   📏 nearby
+
+💰 **Estimated Total Trip Cost:** ₹5,245
+   (Based on cheapest flight + hotel combination)
+
+✅ **Summary:** I found 5 flight(s), 5 hotel(s), weather forecast, and 10 attractions for you.
+
+💡 **Next Steps:** Would you like me to:
+   • Help you choose the best option?
+   • Find more options?
+   • Modify your search criteria?
