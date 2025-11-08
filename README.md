@@ -1,5 +1,4 @@
 # Agentverse 🤖
-![App Screenshot](https://github.com/ANKITsingh-git2/ReplitHack/attached_assets/agent.png)
 
 **The Era of Autonomous AI - Code agents that think, talk, and act.**
 
