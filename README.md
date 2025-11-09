@@ -2,7 +2,8 @@
 
 **The Era of Autonomous AI - Code agents that think, talk, and act.**
 
-![UI Preview](https://raw.githubusercontent.com/ANKITsingh-git2/ReplitHack/main/assets/attached_assets/agent.png)
+![UI Preview](https://github.com/ANKITsingh-git2/ReplitHack/blob/main/attached_assets/agent.png)
+
 
 Agentverse is a comprehensive platform for building and managing autonomous AI agents. This MVP focuses on a Travel Planner agent with a full-featured chat UI, REST API, persistent memory, and mock external tools.
 
